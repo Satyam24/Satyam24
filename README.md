@@ -2,6 +2,8 @@
 
 Passionate Data Analyst & Data Scientist | Turning Numbers to Knowledge, Driving Decisions
 
+![Profile views](https://komarev.com/ghpvc/?username=Satyam24)
+
 * I'm skilled in Python, MySQL, Excel, Power BI & Machine Learning
 
 * Reach me at satyam.shukla2498@gmail.com
