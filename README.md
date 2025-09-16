@@ -1,6 +1,6 @@
 # Hi 👋, I'm Satyam 👨‍💻
 
-Passionate Data Analyst & Data Scientist | Turning Numbers to Knowledge, Driving Decisions
+Data Strategist & Problem Solver | Turning Numbers to Knowledge, Driving Decisions
 
 ![Profile views](https://komarev.com/ghpvc/?username=Satyam24)
 
