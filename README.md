@@ -1,10 +1,10 @@
 # Hi 👋, I'm Satyam 👨‍💻
 
-Data Strategist & Problem Solver | Turning Numbers to Knowledge, Driving Decisions
+A Storyteller of Data & Problem Solver | Turning Numbers to Knowledge, Driving Decisions
 
 ![Profile views](https://komarev.com/ghpvc/?username=Satyam24)
 
-* I'm skilled in Python, MySQL, Excel, Power BI & Machine Learning
+* Leveraging Python, SQL, PowerBI & Machine Learning to turn data into business value.
 
 * Reach me at satyam.shukla2498@gmail.com
   
